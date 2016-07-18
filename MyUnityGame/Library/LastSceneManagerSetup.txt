@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/FlightSim.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/AEgis_Technologies/Aegis_Technologies.unity
+  isLoaded: 1
+  isActive: 0

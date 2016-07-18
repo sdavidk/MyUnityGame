@@ -1,0 +1,13 @@
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_obj\Debug\MyUnityGame.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\WeCanCodeIT\Documents\MyUnityGame\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
